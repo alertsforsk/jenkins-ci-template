@@ -1,0 +1,17 @@
+C:\gitrepo\jenkins-ci-template\src\MyWindowsService\MyWindowsService\bin\Debug\MyWindowsService.exe.config
+C:\gitrepo\jenkins-ci-template\src\MyWindowsService\MyWindowsService\bin\Debug\MyWindowsService.exe
+C:\gitrepo\jenkins-ci-template\src\MyWindowsService\MyWindowsService\bin\Debug\MyWindowsService.pdb
+C:\gitrepo\jenkins-ci-template\src\MyWindowsService\MyWindowsService\bin\Debug\Common.Logging.Core.dll
+C:\gitrepo\jenkins-ci-template\src\MyWindowsService\MyWindowsService\bin\Debug\Common.Logging.dll
+C:\gitrepo\jenkins-ci-template\src\MyWindowsService\MyWindowsService\bin\Debug\Couchbase.NetClient.dll
+C:\gitrepo\jenkins-ci-template\src\MyWindowsService\MyWindowsService\bin\Debug\Newtonsoft.Json.dll
+C:\gitrepo\jenkins-ci-template\src\MyWindowsService\MyWindowsService\bin\Debug\Common.Logging.pdb
+C:\gitrepo\jenkins-ci-template\src\MyWindowsService\MyWindowsService\bin\Debug\Common.Logging.xml
+C:\gitrepo\jenkins-ci-template\src\MyWindowsService\MyWindowsService\bin\Debug\Common.Logging.Core.pdb
+C:\gitrepo\jenkins-ci-template\src\MyWindowsService\MyWindowsService\bin\Debug\Common.Logging.Core.xml
+C:\gitrepo\jenkins-ci-template\src\MyWindowsService\MyWindowsService\bin\Debug\Couchbase.NetClient.xml
+C:\gitrepo\jenkins-ci-template\src\MyWindowsService\MyWindowsService\bin\Debug\Newtonsoft.Json.xml
+C:\gitrepo\jenkins-ci-template\src\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.csprojResolveAssemblyReference.cache
+C:\gitrepo\jenkins-ci-template\src\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.csproj.CoreCompileInputs.cache
+C:\gitrepo\jenkins-ci-template\src\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.exe
+C:\gitrepo\jenkins-ci-template\src\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.pdb
